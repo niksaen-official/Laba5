@@ -5,9 +5,9 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-public class Logic {
+public class Controller {
     List<Worker> workers;
-    public Logic() {
+    public Controller() {
         workers = JsonSerializer.Deserialize<List<Worker>>(File.ReadAllText("list.json"));
     }
     public List<Worker> getListEmployeeWithExperience(int experience) {

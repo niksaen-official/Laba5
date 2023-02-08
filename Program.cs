@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace Лаба5_11 {
     internal class Program {
         static void Main(string[] args) {
-            Logic logic = new Logic();
+            Controller logic = new Controller();
             Console.Write("Введите стаж работы:");
             int experience = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("\nРаботники с указанным стажем работы:\n");
