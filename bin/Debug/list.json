@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Простов Н.А.",
+    "jobTitle": "Глава компании",
+    "yearOfAdmission": 2006,
+    "salary": 100000
+  },
+  {
+    "fullName": "Федотов В.В.",
+    "jobTitle": "Unity разработчик Middle",
+    "yearOfAdmission": 2008,
+    "salary": 50000
+  },
+  {
+    "fullName": "Сычин Д.В",
+    "jobTitle": "Unity разработчик Middle",
+    "yearOfAdmission": 2015,
+    "salary": 50000
+  },
+  {
+    "fullName": "Тяпкин Д.C",
+    "jobTitle": "Unity разработчик Senior",
+    "yearOfAdmission": 2010,
+    "salary": 75000
+  },
+  {
+    "fullName": "Простов И.А.",
+    "jobTitle": "Unity разработчик Junior",
+    "yearOfAdmission": 2022,
+    "salary": 25000
+  },
+  {
+    "fullName": "Контеева А.А.",
+    "jobTitle": "Уборщица",
+    "yearOfAdmission": 2020,
+    "salary": 10000
+  },
+  {
+    "fullName": "Филатова В.А.",
+    "jobTitle": "Тестировщик",
+    "yearOfAdmission": 2009,
+    "salary": 40000
+  },
+  {
+    "fullName": "Лисичников А.А.",
+    "jobTitle": "UI и UX дезайнер",
+    "yearOfAdmission": 2022,
+    "salary": 20000
+  },
+  {
+    "fullName": "Фролов Н.А.",
+    "jobTitle": "Арт дизайнер",
+    "yearOfAdmission": 2020,
+    "salary": 17000
+  },
+  {
+    "fullName": "Павленко Л.С.",
+    "jobTitle": "3D-моделист",
+    "yearOfAdmission": 2007,
+    "salary": 27000
+  }
+]
